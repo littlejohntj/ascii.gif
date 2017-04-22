@@ -8,6 +8,7 @@ Once the gif was in frames, I converted each frame to ascii art using this scrip
 https://github.com/hit9/img2txt
 
 ![](https://media.giphy.com/media/l2R0aKwejYr8ycKAg/giphy.gif)
+
 The final program will convert this gif...
 
 To this ascii art! (In the command line)
