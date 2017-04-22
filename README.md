@@ -15,4 +15,4 @@ The final program will convert this gif...
 
 To this ascii art! (In the command line)
 
-![](http://imgur.com/a/jnevS)
+![](http://i.imgur.com/CBBQx3m.gif)
