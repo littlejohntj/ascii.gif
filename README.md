@@ -13,6 +13,6 @@ The final program will convert this gif...
 
 ![](https://media.giphy.com/media/l2R0aKwejYr8ycKAg/giphy.gif)
 
-
-
 To this ascii art! (In the command line)
+
+![](http://imgur.com/a/jnevS)
